@@ -633,7 +633,7 @@ td {
 @media (max-width: 768px) {
     .sidebar {
         width: 70px;
-        overflow: hidden;
+        flex-direction: row;
     }
 
     .sidebar .logo span {
