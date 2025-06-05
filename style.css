@@ -632,16 +632,16 @@ td {
 /* Responsive Styles */
 @media (max-width: 768px) {
     .sidebar {
-        width: 120px;
+        width: 60px;
         overflow: hidden;
     }
 
     .sidebar .logo span {
-        display: none;
+        display: block;
     }
 
     .menu li a span {
-        display: none;
+        display: block;
     }
 
     .menu li a i {
