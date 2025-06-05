@@ -632,7 +632,7 @@ td {
 /* Responsive Styles */
 @media (max-width: 768px) {
     .sidebar {
-        width: 200px;
+        width: 120px;
         overflow: hidden;
     }
 
