@@ -632,7 +632,8 @@ td {
 /* Responsive Styles */
 @media (max-width: 768px) {
     .sidebar {
-        width: 100px;
+        width: 200px;
+        overflow: hidden;
     }
 
     .sidebar .logo span {
